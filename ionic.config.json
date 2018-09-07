@@ -1,0 +1,7 @@
+{
+  "name": "percentBack",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
